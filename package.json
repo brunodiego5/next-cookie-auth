@@ -1,0 +1,18 @@
+{
+  "name": "next-cookie-auth",
+  "version": "1.0.0",
+  "description": "Cookie authentication with next.js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": "https://github.com/brunodiego5/next-cookie-auth.git",
+  "author": "bruno_diego5 <bruno_diego5@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
